@@ -28,9 +28,9 @@ npm install taghub -g
 
 ```
 +-----------------------------------------------------------------+
-¦ name                     ¦ description        ¦ theirs ¦ yours  ¦
-+--------------------------+--------------------+--------+--------¦
-¦ [bootstrap-switch-rails] ¦ versions are equal ¦ v1.8.0 ¦ v1.8.0 ¦
+Â¦ name                     Â¦ description        Â¦ theirs Â¦ yours  Â¦
++--------------------------+--------------------+--------+--------Â¦
+Â¦ [bootstrap-switch-rails] Â¦ versions are equal Â¦ v1.8.0 Â¦ v1.8.0 Â¦
 +-----------------------------------------------------------------+
 ```
 
@@ -46,8 +46,8 @@ The node-taghub project is licensed under the [MIT License](LICENSE.txt)
 
 ## Contributing
 
-Fork it
-Create your feature branch (`git checkout -b my-new-feature`)
-Commit your changes (`git commit -am 'Add some feature'`)
-Push to the branch (`git push origin my-new-feature`)
-Create new Pull Request
+- Fork it
+- Create your feature branch (`git checkout -b my-new-feature`)
+- Commit your changes (`git commit -am 'Add some feature'`)
+- Push to the branch (`git push origin my-new-feature`)
+- Create new Pull Request
