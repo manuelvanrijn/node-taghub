@@ -1,0 +1,41 @@
+{
+  "name": "taghub",
+  "version": "0.0.1",
+  "description": "Commandline tool to compare the latest tags of your and their github repository.",
+  "keywords": [
+    "cli",
+    "assets",
+    "gems",
+    "github",
+    "tags",
+    "compare"
+  ],
+  "homepage": "http://github.com/manuelvanrijn/node-taghub",
+  "bugs": {
+    "url": "http://github.com/manuelvanrijn/node-taghub/issues",
+    "email": "manuel@manuelles.nl"
+  },
+  "license": "MIT",
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:manuelvanrijn/node-taghub.git"
+  },
+  "author": "Manuel van Rijn <manuel@manuelles.nl> (http://manuel.manuelles.nl)",
+  "main": "lib/taghub.js",
+  "bin": { "taghub" : "bin/taghub" },
+  "engines": {
+    "node" : ">= 0.10",
+    "npm": "1"
+  },
+  "dependencies": {
+    "commander": "~2.0.0",
+    "prompt": "~0.2.11",
+    "colors": "~0.6.1",
+    "github": "~0.1.8",
+    "semver": "~2.1.0",
+    "cli-table": "~0.2.0",
+    "async": "~0.2.9"
+  },
+  "devDependencies": {}
+}
