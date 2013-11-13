@@ -38,6 +38,7 @@ npm install taghub -g
 
 | Version | Notes |
 | -------:| ----------------------------------------------------------------------------------- |
+| 0.0.3   | UTF-8-ify files                                                                     |
 | 0.0.2   | Minor fixes                                                                         |
 | 0.0.1   | Initial release                                                                     |
 
