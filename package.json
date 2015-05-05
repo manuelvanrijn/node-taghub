@@ -1,6 +1,6 @@
 {
   "name": "taghub",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Commandline tool to compare the latest tags of your and their github repository.",
   "keywords": [
     "cli",
@@ -33,7 +33,7 @@
     "prompt": "~0.2.11",
     "colors": "~0.6.1",
     "github": "~0.1.8",
-    "semver": "~2.1.0",
+    "semver": ">=4.3.4",
     "cli-table": "~0.2.0",
     "async": "~0.2.9"
   },
