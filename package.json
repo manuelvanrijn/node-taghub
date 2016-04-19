@@ -13,7 +13,7 @@
   "homepage": "http://github.com/manuelvanrijn/node-taghub",
   "bugs": {
     "url": "http://github.com/manuelvanrijn/node-taghub/issues",
-    "email": "manuel@manuelles.nl"
+    "email": "manuel@manuelvanrijn.nl.nl"
   },
   "license": "MIT",
 
@@ -21,7 +21,7 @@
     "type": "git",
     "url": "git@github.com:manuelvanrijn/node-taghub.git"
   },
-  "author": "Manuel van Rijn <manuel@manuelles.nl> (http://manuel.manuelles.nl)",
+  "author": "Manuel van Rijn <manuel@manuelvanrijn.nl> (http://manuelvanrijn.nl)",
   "main": "lib/taghub.js",
   "bin": { "taghub" : "bin/taghub" },
   "engines": {
